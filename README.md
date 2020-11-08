@@ -2,8 +2,8 @@
 
 # tlv75733
 3v3 ldo,small,about 3RMB,1A current max
-# USB2USART ch340e  
-small ,inside osc
+# ch340e  
+USB2USART,small ,inside osc
 XSOP08
 # spl06
 higher cost performance pressure sensor,cheap
