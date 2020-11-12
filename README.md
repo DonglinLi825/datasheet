@@ -19,3 +19,16 @@ support IIC and SPI
 16PIN LGA
 # QN3019M6N
 N-Channel MOSFET with extreme high cell density
+# BCP68
+SOT223，transistor，Ic 2A current max,2RMB
+# OPA380
+Precision, High-Speed,Transimpedance Amplifier
+# OPA2677
+Dual, Wideband, High Output Current,Operational Amplifier
+# OPA192
+10MHz,rail2rail,SOIC8,SOT23-5，OPERATE AMPLIFIER
+
+
+
+
+
