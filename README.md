@@ -1,7 +1,7 @@
 # the common IC datasheets     
 
 # tlv75733
-3v3 ldo,small,about 3RMB,1A current max
+3v3 ldo,small（SOT23-5）,about 3RMB,1A current max
 # ch340e  
 USB2USART,small ,inside osc
 XSOP08
